@@ -1,0 +1,6 @@
+[package]
+name = "libprocessor"
+version = "0.1.0"
+authors = ["Rex Lunae <rexlunae@gmail.com>"]
+
+[dependencies]
